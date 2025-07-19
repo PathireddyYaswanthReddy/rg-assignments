@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d27acd2c-955d-4a4f-afcb-4e0dbaeba4f7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/Assignment 1 Spring.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Customer-SpringBatch/src/main/java/com/example/config/CustomerProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Customer-SpringBatch/src/main/java/com/example/config/CustomerProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Customer-SpringBatch/src/main/java/com/example/config/SpringBatchConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Customer-SpringBatch/src/main/java/com/example/config/SpringBatchConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Customer-SpringBatch/src/main/java/com/example/controller/JobController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Customer-SpringBatch/src/main/java/com/example/controller/JobController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Customer-SpringBatch/src/main/java/com/example/entity/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Customer-SpringBatch/src/main/java/com/example/entity/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Customer-SpringBatch/src/main/java/com/example/repository/CustomerRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Customer-SpringBatch/src/main/java/com/example/repository/CustomerRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Customer-SpringBatch/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../Customer-SpringBatch/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Customer-SpringBatch/src/main/resources/customers.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Customer-SpringBatch/src/main/resources/customers.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Customer-SpringBatch/src/test/java/com/example/MainTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Customer-SpringBatch/src/test/java/com/example/MainTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Employee-Spring/src/main/java/com/example/config/AppConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Employee-Spring/src/main/java/com/example/config/AppConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Employee-Spring/src/main/java/com/example/dao/EmployeeDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Employee-Spring/src/main/java/com/example/dao/EmployeeDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Employee-Spring/src/main/java/com/example/model/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Employee-Spring/src/main/java/com/example/model/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/controller/EmployeeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/controller/EmployeeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/model/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/model/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/repository/EmployeeRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/repository/EmployeeRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springAnnotations/src/main/java/com/example/DemoApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springAnnotations/src/main/java/com/example/DemoApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springAnnotations/src/main/java/com/example/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springAnnotations/src/main/java/com/example/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springAnnotations/src/main/java/com/example/repository/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springAnnotations/src/main/java/com/example/repository/UserRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springAnnotations/src/main/java/com/example/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springAnnotations/src/main/java/com/example/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springAnnotations/src/main/java/com/example/util/MyUtility.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springAnnotations/src/main/java/com/example/util/MyUtility.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="306fRtTG4SpO1ZZkNm9h2gNjmUT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "onboarding.tips.debug.path": "/Users/p.yaswanthreddy/Desktop/assignments/rg-assignments/week2/Assignment 1 Spring/Employee-SpringBoot-JPA/src/main/java/com/example/Main.java"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d27acd2c-955d-4a4f-afcb-4e0dbaeba4f7" name="Changes" comment="" />
+      <created>1752952938721</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1752952938721</updated>
+    </task>
+    <servers />
+  </component>
+</project>
